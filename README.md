@@ -3,7 +3,6 @@
 Every app needs avatars, we make it hassle-free.
 We offer a hosted user avatar service for your apps and sites.
 
-## Details
 For an overview of the system, please visit [http://avatars.io](http://avatars.io)
 
 ## Libraries
@@ -23,5 +22,6 @@ For an overview of the system, please visit [http://avatars.io](http://avatars.i
 
 ## Chipping In
 
+* [Idea Bank](https://github.com/chute/avatars-io/wiki/Idea-Bank)
 * [Sites Using Avatars.io](https://github.com/chute/avatars-io/wiki/Sites-Using-Avatars.io)
 * [Extensions & Add-Ons](https://github.com/chute/avatars-io/wiki/Extensions-and-Add-Ons)
