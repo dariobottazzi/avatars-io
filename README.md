@@ -13,7 +13,9 @@ For an overview of the system, please visit [http://avatars.io](http://avatars.i
 * [Node.js](http://github.com/chute/avatars-io-node)
 * PHP
   * Official (coming soon)
-	* [jjaffeux](http://github.com/jjaffeux/avatars-io-php)
+  * [jjaffeux](http://github.com/jjaffeux/avatars-io-php)
+* Python
+  * [Zopieux](https://github.com/Zopieux/avatars-io-python)  
 
 ## Getting Help
 
