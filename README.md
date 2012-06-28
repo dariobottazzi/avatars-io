@@ -1,6 +1,5 @@
 # Avatars.io
 
-## Overview
 Every app needs avatars, we make it hassle-free.
 We offer a hosted user avatar service for your apps and sites.
 
