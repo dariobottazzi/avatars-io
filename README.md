@@ -17,7 +17,12 @@ For an overview of the system, please visit [http://avatars.io](http://avatars.i
   * Official (coming soon)
 	* [jjaffeux](http://github.com/jjaffeux/avatars-io-php)
 
-## Helping Out
+## Getting Help
+
+* [Issues](https://github.com/chute/avatars-io/issues)
+* [Email](mailto:hello@getchute.com)
+
+## Chipping In
 
 * [Sites Using Avatars.io](https://github.com/chute/avatars-io/wiki/Sites-Using-Avatars.io)
 * [Extensions & Add-Ons](https://github.com/chute/avatars-io/wiki/Extensions-and-Add-Ons)
