@@ -7,6 +7,7 @@ For an overview of the system, please visit [http://avatars.io](http://avatars.i
 
 ## Libraries
 
+* [NEW: Javascript](https://github.com/chute/avatars-io-js)
 * [iOS](http://github.com/chute/avatars-io-ios)
 * [Android](http://github.com/chute/avatars-io-android)
 * [Ruby](http://github.com/chute/avatars-io-ruby)
